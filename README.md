@@ -11,8 +11,8 @@
 ---
 
 ### 🌐 Direct Application Access
-**Live Interactive App URL:**  
-👉 **[https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app](https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)**
+- **Public Live Application**: [https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app](https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)
+- **Direct Workspace Preview**: [https://ais-dev-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app](https://ais-dev-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)
 
 *Direct link to access the live sandbox environment: test autonomous agent procurement, real-time Channel3 price comparison, PayPal Orders v2 captures, and the AG Grid financial ledger.*
 
