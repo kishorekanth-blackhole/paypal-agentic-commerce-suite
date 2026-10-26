@@ -1,7 +1,7 @@
 # PayPal Agentic Commerce Suite
 > **Enterprise Autonomous Payment Protocol, Zero-Trust Fiscal Guardrails & Multi-Software Execution Mesh**
 
-[![🚀 Live Demo: Launch Application](https://img.shields.io/badge/🚀_Live_Demo-Launch_Application-0079C1?style=for-the-badge&logo=paypal&logoColor=white)](https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)
+[![🚀 Live Demo: Launch Application](https://img.shields.io/badge/🚀_Live_Demo-Launch_Application-0079C1?style=for-the-badge&logo=paypal&logoColor=white)](https://ais-dev-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Runtime: Node.js 20+](https://img.shields.io/badge/Runtime-Node.js%2020%2B-green.svg)](https://nodejs.org)
 [![Framework: React 19 + Vite](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite-61dafb.svg)](https://vitejs.dev)
@@ -10,9 +10,9 @@
 
 ---
 
-### 🌐 Direct Application Access
-- **Public Live Application**: [https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app](https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)
-- **Direct Workspace Preview**: [https://ais-dev-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app](https://ais-dev-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)
+### 🌐 Direct Application Access (Verified for Chrome, Mobile & Desktop)
+👉 **[Click Here to Launch Live Application](https://ais-dev-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)**  
+**Direct URL:** `https://ais-dev-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app`
 
 *Direct link to access the live sandbox environment: test autonomous agent procurement, real-time Channel3 price comparison, PayPal Orders v2 captures, and the AG Grid financial ledger.*
 
