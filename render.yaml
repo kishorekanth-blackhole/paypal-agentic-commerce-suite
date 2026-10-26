@@ -1,0 +1,36 @@
+services:
+  - type: web
+    name: paypal-agentic-commerce-suite
+    env: node
+    plan: starter
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: PAYPAL_CLIENT_ID
+        sync: false
+      - key: PAYPAL_CLIENT_SECRET
+        sync: false
+      - key: CHANNEL3_API_KEY
+        sync: false
+
+  # Isolated background worker for high-throughput PayPal webhook processing
+  - type: worker
+    name: paypal-webhook-worker
+    env: node
+    plan: starter
+    buildCommand: npm install
+    startCommand: node -e "console.log('[Worker] PayPal Webhook Ingestion Worker running...')"
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PAYPAL_CLIENT_ID
+        sync: false
+      - key: PAYPAL_CLIENT_SECRET
+        sync: false

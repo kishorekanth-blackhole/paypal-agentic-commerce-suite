@@ -1,0 +1,6 @@
+{
+  "name": "PayPal AI Hackathon Innovation Lab",
+  "description": "Developer workbench, autonomous agentic commerce simulator, and project incubator for the $69,750 PayPal AI Hackathon on Devpost.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
