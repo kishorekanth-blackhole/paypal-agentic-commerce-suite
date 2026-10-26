@@ -1,11 +1,20 @@
 # PayPal Agentic Commerce Suite
 > **Enterprise Autonomous Payment Protocol, Zero-Trust Fiscal Guardrails & Multi-Software Execution Mesh**
 
+[![🚀 Live Demo: Launch Application](https://img.shields.io/badge/🚀_Live_Demo-Launch_Application-0079C1?style=for-the-badge&logo=paypal&logoColor=white)](https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Runtime: Node.js 20+](https://img.shields.io/badge/Runtime-Node.js%2020%2B-green.svg)](https://nodejs.org)
 [![Framework: React 19 + Vite](https://img.shields.io/badge/Frontend-React%2019%20%2B%20Vite-61dafb.svg)](https://vitejs.dev)
 [![PayPal: REST Orders v2](https://img.shields.io/badge/PayPal-Orders%20v2%20Sandbox-003087.svg)](https://developer.paypal.com)
 [![AI Engine: Google Gemini 3.8 Flash](https://img.shields.io/badge/AI%20Engine-Gemini%203.8%20Flash-4285F4.svg)](https://aistudio.google.com)
+
+---
+
+### 🌐 Direct Application Access
+**Live Interactive App URL:**  
+👉 **[https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app](https://ais-pre-jwsrlu3bm6bw4rcc2je26a-637186347104.asia-southeast1.run.app)**
+
+*Direct link to access the live sandbox environment: test autonomous agent procurement, real-time Channel3 price comparison, PayPal Orders v2 captures, and the AG Grid financial ledger.*
 
 ---
 
